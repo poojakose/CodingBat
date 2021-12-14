@@ -9,6 +9,8 @@ def sum13(nums):
         i += 1
     return total
 
+############## OR ###################
+
 def Msum13(nums):
   sum = 0
   for i in range(len(nums)):
